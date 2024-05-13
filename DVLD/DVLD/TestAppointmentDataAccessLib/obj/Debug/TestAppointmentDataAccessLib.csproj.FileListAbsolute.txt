@@ -1,0 +1,15 @@
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\TestAppointmentDataAccessLib.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\TestAppointmentDataAccessLib.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\obj\Debug\TestAppointmentDataAccessLib.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\obj\Debug\TestAppointmentDataAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\obj\Debug\TestAppo.9330A58A.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\obj\Debug\TestAppointmentDataAccessLib.dll
+C:\Users\XIGMATEK\source\repos\DVLD\TestAppointmentDataAccessLib\obj\Debug\TestAppointmentDataAccessLib.pdb

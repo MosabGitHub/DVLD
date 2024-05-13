@@ -1,0 +1,17 @@
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\testLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\testLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\testDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\testDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\obj\Debug\testLibrary.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\obj\Debug\testLibrary.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\obj\Debug\testLibr.753ACB20.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\obj\Debug\testLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testLibrary\obj\Debug\testLibrary.pdb

@@ -1,0 +1,15 @@
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\testDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\testDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\obj\Debug\testDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\obj\Debug\testDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\obj\Debug\testData.E2DFB4DE.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\obj\Debug\testDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\testDataAccess\obj\Debug\testDataAccess.pdb

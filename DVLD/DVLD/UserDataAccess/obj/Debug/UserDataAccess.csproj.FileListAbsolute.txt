@@ -1,0 +1,9 @@
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\bin\Debug\UserDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\bin\Debug\UserDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\obj\Debug\UserDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\obj\Debug\UserDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\obj\Debug\UserData.F0550F4A.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\obj\Debug\UserDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\UserDataAccess\obj\Debug\UserDataAccess.pdb

@@ -1,0 +1,13 @@
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\obj\Debug\DVLD.DTOs.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\obj\Debug\DVLD.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\obj\Debug\DVLD.DTOs.csproj.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\obj\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\DVLD.DTOs\obj\Debug\DVLD.DTOs.pdb

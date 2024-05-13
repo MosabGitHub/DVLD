@@ -1,0 +1,15 @@
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\_LicenseDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\_LicenseDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\obj\Debug\_LicenseDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\obj\Debug\_LicenseDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\obj\Debug\_License.DB6B0CE9.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\obj\Debug\_LicenseDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_LicenseDataAccess\obj\Debug\_LicenseDataAccess.pdb

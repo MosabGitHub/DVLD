@@ -1,0 +1,15 @@
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\PersonServiceLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\PersonServiceLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\_PersonDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\_PersonDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\obj\Debug\PersonServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\obj\Debug\PersonServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\obj\Debug\PersonSe.453AA47B.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\obj\Debug\PersonServiceLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\PersonServiceLibrary\obj\Debug\PersonServiceLibrary.pdb

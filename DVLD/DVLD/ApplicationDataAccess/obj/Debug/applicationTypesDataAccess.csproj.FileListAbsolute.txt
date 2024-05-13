@@ -1,0 +1,9 @@
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ApplicationDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ApplicationDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicationTypesDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicationTypesDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicationTypesDataAccess.csproj.CopyComplete
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\ApplicationDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\ApplicationDataAccess.pdb

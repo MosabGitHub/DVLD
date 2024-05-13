@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld.dtos\\licensedto\\clsinternationallicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|solutionrelative:dvld.dtos\\licensedto\\clsinternationallicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld.dtos\\licensedto\\clsinternationallicensespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|solutionrelative:dvld.dtos\\licensedto\\clsinternationallicensespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld.dtos\\clslicenseclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7E2DA4-49E4-45E2-8F9D-BF21DB83255D}|DVLD.DTOs\\DVLD.DTOs.csproj|solutionrelative:dvld.dtos\\clslicenseclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld\\general\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|solutionrelative:dvld\\general\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld\\general\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|solutionrelative:dvld\\general\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|c:\\users\\xigmatek\\source\\repos\\dvld\\dvld\\general\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|solutionrelative:dvld\\general\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\dvld\\application\\replacement application\\frmreplacementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|solutionrelative:dvld\\application\\replacement application\\frmreplacementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\dvld\\application\\replacement application\\frmreplacementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FF05472-F87D-4E54-B632-3921EA30B315}|DVLD\\DVLD.csproj|solutionrelative:dvld\\application\\replacement application\\frmreplacementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInternationalLicenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseDTO.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseDTO.cs",
+              "RelativeToolTip": "DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:08:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsInternationalLicenseSpec.cs",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseSpec.cs",
+              "RelativeDocumentMoniker": "DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseSpec.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseSpec.cs",
+              "RelativeToolTip": "DVLD.DTOs\\LicenseDTO\\clsInternationalLicenseSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:08:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsLicenseClassDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\clsLicenseClassDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DTOs\\clsLicenseClassDTO.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD.DTOs\\clsLicenseClassDTO.cs",
+              "RelativeToolTip": "DVLD.DTOs\\clsLicenseClassDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:07:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\login.cs",
+              "RelativeDocumentMoniker": "DVLD\\General\\login.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\login.cs",
+              "RelativeToolTip": "DVLD\\General\\login.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:48:59.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\login.cs",
+              "RelativeDocumentMoniker": "DVLD\\General\\login.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\login.cs [Design]",
+              "RelativeToolTip": "DVLD\\General\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:48:57.786Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\mainFrm.cs",
+              "RelativeDocumentMoniker": "DVLD\\General\\mainFrm.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\General\\mainFrm.cs [Design]",
+              "RelativeToolTip": "DVLD\\General\\mainFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:01:59.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReplacementApplication.cs",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "RelativeDocumentMoniker": "DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "RelativeToolTip": "DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAADwv8IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:55:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmReplacementApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "RelativeDocumentMoniker": "DVLD\\Application\\Replacement application\\frmReplacementApplication.cs",
+              "ToolTip": "C:\\Users\\XIGMATEK\\source\\repos\\DVLD\\DVLD\\Application\\Replacement application\\frmReplacementApplication.cs [Design]",
+              "RelativeToolTip": "DVLD\\Application\\Replacement application\\frmReplacementApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:55:28.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

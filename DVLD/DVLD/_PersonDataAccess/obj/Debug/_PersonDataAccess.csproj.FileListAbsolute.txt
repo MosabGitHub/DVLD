@@ -1,0 +1,9 @@
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\bin\Debug\_PersonDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\bin\Debug\_PersonDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\obj\Debug\_PersonDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\obj\Debug\_PersonDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\obj\Debug\_PersonD.7C12FE02.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\obj\Debug\_PersonDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\_PersonDataAccess\obj\Debug\_PersonDataAccess.pdb

@@ -1,0 +1,15 @@
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ApplicationDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ApplicationDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\DVLD.DTOs.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\DVLD.DTOs.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicationDataAccess.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicationDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\applicat.57608B4D.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\ApplicationDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\ApplicationDataAccess\obj\Debug\ApplicationDataAccess.pdb

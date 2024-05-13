@@ -1,0 +1,6 @@
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\obj\Debug\SecurityLib.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\obj\Debug\SecurityLib.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\GlobalSettings.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\PersonClass.dll
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\PersonClass.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\obj\Debug\GlobalSettings.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\obj\Debug\GlobalSettings.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\obj\Debug\GlobalSe.352E39B3.Up2Date
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\obj\Debug\GlobalSettings.dll
+C:\Users\XIGMATEK\source\repos\DVLD\GlobalSettings\obj\Debug\GlobalSettings.pdb

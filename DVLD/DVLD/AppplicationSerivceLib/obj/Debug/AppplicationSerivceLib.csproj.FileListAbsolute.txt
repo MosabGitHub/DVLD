@@ -1,0 +1,11 @@
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\obj\Debug\AppplicationSerivceLib.csproj.AssemblyReference.cache
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\obj\Debug\AppplicationSerivceLib.csproj.CoreCompileInputs.cache
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\AppplicationSerivceLib.dll
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\AppplicationSerivceLib.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\ApplicationDataAccess.dll
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\ConnectionClassLibrary.dll
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\ApplicationDataAccess.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\bin\Debug\ConnectionClassLibrary.pdb
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\obj\Debug\AppplicationSerivceLib.csproj.CopyComplete
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\obj\Debug\AppplicationSerivceLib.dll
+C:\Users\XIGMATEK\source\repos\DVLD\AppplicationSerivceLib\obj\Debug\AppplicationSerivceLib.pdb
